@@ -8,3 +8,5 @@ genplusgx (Genesis emulator) discussion:
 https://github.com/ekeeke/Genesis-Plus-GX/issues/334
 
 As a result of the discussions, I managed to compile some builds of the following three emulators: fceugx, snes9xgx and genplusgx. These builds implement the changes applied to the source code in order to allow support to my off-brand controller, fixing the laggy output issue.
+
+Usage: place the emulator's .dol file in a folder (name the folder after the emulator, any name will do) inside your apps folder and rename the .dol to boot.dol.
