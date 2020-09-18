@@ -7,4 +7,4 @@ https://github.com/dborth/snes9xgx/issues/947
 genplusgx (Genesis emulator) discussion:
 https://github.com/ekeeke/Genesis-Plus-GX/issues/334
 
-As a result of these discussions, I managed to compile some builds of the following three emulators: fceugx, snes9xgx and genplusgx. These builds implement the changes applied to the source code in order to allow support to my off-brand controller.
+As a result of the discussions, I managed to compile some builds of the following three emulators: fceugx, snes9xgx and genplusgx. These builds implement the changes applied to the source code in order to allow support to my off-brand controller.
