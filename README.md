@@ -13,3 +13,5 @@ As a result of the discussions, I managed to compile some builds of the followin
 Usage: place the emulator's .dol file in a folder (name the folder after the emulator, any name will do) inside your apps folder and rename the .dol to boot.dol.
 
 Compilation instructions:
+
+To compile the three emulators, I recommend using devkitPRO-pacman, latest version. Install the following packages on it: ppc-bzip2 ppc-freetype ppc-libjpeg-turbo ppc-libogg ppc-libpng ppc-libvorbisidec ppc-mpg123 ppc-mxml ppc-pkg-config ppc-zlib. Replace the standard libogc by the modded one provided in this directory. To compile genplusgx, you will need to replace the standard devkitPPC by the devkitPPC r29-1, provided here: https://wii.leseratte10.de/devkitPro/devkitPPC/r29-1%20(2017)/.
