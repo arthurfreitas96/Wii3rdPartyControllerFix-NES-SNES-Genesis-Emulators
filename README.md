@@ -8,7 +8,7 @@ https://github.com/dborth/snes9xgx/issues/947
 genplusgx (Genesis emulator) discussion:
 https://github.com/ekeeke/Genesis-Plus-GX/issues/334
 
-As a result of the discussions, I managed to compile some builds of the following three emulators: fceugx, snes9xgx, mgba and genplusgx. These builds implement the changes applied to the devkitPRO (changing the libogc by the modded one 'libogc_mod') in order to allow support to my off-brand controller, fixing the laggy output issue.
+As a result of the discussions, I managed to compile some builds of the following four emulators: fceugx, snes9xgx, mgba and genplusgx. These builds implement the changes applied to the devkitPRO (changing the libogc by the modded one 'libogc_mod') in order to allow support to my off-brand controller, fixing the laggy output issue.
 
 Usage: place the emulator's .dol file in a folder (name the folder after the emulator, any name will do) inside your apps folder and rename the .dol to boot.dol.
 
