@@ -14,4 +14,4 @@ Usage: place the emulator's .dol file in a folder (name the folder after the emu
 
 Compilation instructions:
 
-To compile the four emulators, I recommend using devkitPRO-pacman, latest version. Install the following packages on it: ppc-bzip2 ppc-freetype ppc-libjpeg-turbo ppc-libogg ppc-libpng ppc-libvorbisidec ppc-mpg123 ppc-mxml ppc-pkg-config ppc-zlib. Replace the standard libogc by the modded one provided in this directory.
+To compile the four emulators, I recommend using devkitPRO-pacman, latest version. Install the following packages on it: ppc-bzip2 ppc-freetype ppc-libjpeg-turbo ppc-libogg ppc-libpng ppc-libvorbisidec ppc-mpg123 ppc-mxml ppc-pkg-config ppc-zlib. Replace the standard libogc by the libogc_mod provided in this directory and rename it to libogc.
